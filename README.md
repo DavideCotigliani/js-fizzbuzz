@@ -2,5 +2,5 @@ Consegna: Scrivi un programma che stampi i numeri da 1 a 100, ma per i multipli 
 
 <!-- Scrivo le condizioni affinché si verifichino i multipli di 3 e 5 con un if -->
 <!-- In secondo luogo nell'else if scrivo la condizione affinché si verifichino i multipli di 3 -->
-<!-- Successivamente nell'else if scrivo la condizione affinché si verifichino i multipli di 5 -->
+<!-- Successivamente in un altro else if scrivo la condizione affinché si verifichino i multipli di 5 -->
 <!-- Mostro il risultato con console.log -->
